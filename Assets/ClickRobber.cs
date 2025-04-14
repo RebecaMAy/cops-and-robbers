@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class ClickRobber : MonoBehaviour
 {
+
+    //
     //Nuevo script para gestionar click en la ficha robber en caso de que esta se encuentre en una posicion alcanzable
+    //
+
     public GameObject robber;
     private Controller controller;
 
